@@ -1,6 +1,6 @@
-## Theoretical White Paper. Version 1.0.5 - 12/15/2017
+### Theoretical White Paper. Version 1.0.5 - 12/15/2017
 
-## Meet Genecoin: the Bioeconomy Currency
+# Meet Genecoin: the Bioeconomy Currency
 
 ### Schorchit, B; Monteiro, BA; Gouveia, FC; Fischer, A; Rebelo, MF.
 
