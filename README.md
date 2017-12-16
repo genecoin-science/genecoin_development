@@ -12,15 +12,23 @@ Science is collaborative and cooperative (even though also competitive) and mone
 
 For most of human history, scientists were isolated people, working with limited resources, either from their own families or donated by mecenas. It was over the last almost 2 centuries that science started to &#39;institutionalize&#39;: scientists were gathering in research institutes and universities around the world, that were financed by governments and industry (De Meis, 2008). In the XVII century, the estimated number of scientists in the world was 150 and there is no estimation of the amount of knowledge (in number of scientific articles published) they produced (De Meis, 2008).
 
-## 800 Volumes
+---
 
-even though we know that in 1800, the best library in the world was at the University of Oxford and it had, in its &#39;natural philosophy section&#39;, the closest to what we call &#39;science&#39; today, about 800 volumes, that did not represent the production of that year, but all the scientific production of mankind thill that date (De Meis, 2008).
+> ### 800 Volumes
+> 
+> even though we know that in 1800, the best library in the world was at the University of Oxford and it had, in its &#39;natural philosophy section&#39;, the closest to what we call &#39;science&#39; today, about 800 volumes, that did not represent the production of that year, but all the scientific production of mankind thill that date (De Meis, 2008).
+
+---
 
 However, in the year 1900, the estimated number of scientists in the world was 4-5000 and their scientific production was published in scientific journals of wide circulation, and that could be found in the main world libraries. In that specific year, 4000 articles were published (De Meis, 2008). This institutionalization of science lead to an exponential growth of scientific enterprise and In the 20th century, the number of scientists was estimated to be 30 million, publishing astonishing 2 million articles a year.
 
-## Diminishing returns?
+---
 
-And all this information has changed our way of living in this planet. We went from 6.8 km.h-1 (the speed of running with our own legs) to 25 km.h-1 in ancient Mesopotamia (war chariots with 2-3 horses). The steam engine reached this speed only in 1925. But after that, in an interval of less than 100 years, man reached space in rockets that could reach 200.000 km.h-1 (De Meis, 2008).
+> ### Diminishing returns?
+> 
+> And all this information has changed our way of living in this planet. We went from 6.8 km.h-1 (the speed of running with our own legs) to 25 km.h-1 in ancient Mesopotamia (war chariots with 2-3 horses). The steam engine reached this speed only in 1925. But after that, in an interval of less than 100 years, man reached space in rockets that could reach 200.000 km.h-1 (De Meis, 2008).
+
+---
 
 The current model of science funding was established after the 2nd world war, by the United States. The success of the Manhattan project as an applied science initiative, and the understanding that ultimately the war was won by science, lead to the understanding of the strategic importance of science for a country sovereignty and the importance to create the means to continuously funding basic science that could lead to applied solutions (Bush, 1945). The model of a ministry of science and technology and a National Science Agency was copied throughout the world and until today is the mainstream, with grants distributed to scientists according to their previous achievements.
 
@@ -28,9 +36,13 @@ In spite of all the benefits that basic and applied science brought to us in the
 
 Moreover, universities and research institutes are not growing at the same pace of the number of scientists (measured ad people with a PhD) and even though this many suggest we already have enough scientists, this is not true. Data from OECD shows the best indication for innovation (measured as number of patents) is not R&amp;D investment, number of published articles or even previous achievements (such as other patents): is the number of scientists (OECD, 2010). The average rate of scientists in the world is 1k/1M inhabitants. The 5 nations that produce most of the knowledge in the world (measured again as number of patents), have 5-times this average. Developing countries, such as Brazil, have half the average (OECD, 2010). If these nations wants to join the knowledge economy in the 21st century, they will have to drastically increase the number of scientists, even though they lack the infrastructure (universities and research institutes) to do so.
 
-## The Knowledge economy
+---
 
-In the article &#39; [Data is giving rise to a new economy](https://www.economist.com/%20news/briefing/21721634-how-it-shaping-up-data-giving-rise-new-economy)&#39;, in &#39;The Economist&#39;, the authors shows that 10 years ago the 10 biggest companies in the world were oil companies. Today, the five biggest ones are data companies. Already today, data is a commodity more valuable than oil and we have every reason to believe it will continue to be like this in the knowledge economy of the 21st century.
+> ### The Knowledge economy
+> 
+> In the article &#39; [Data is giving rise to a new economy](https://www.economist.com/%20news/briefing/21721634-how-it-shaping-up-data-giving-rise-new-economy)&#39;, in &#39;The Economist&#39;, the authors shows that 10 years ago the 10 biggest companies in the world were oil companies. Today, the five biggest ones are data companies. Already today, data is a commodity more valuable than oil and we have every reason to believe it will continue to be like this in the knowledge economy of the 21st century.
+
+---
 
 How can we leap-frog science in a de-infrastructure world? With technology and the new modes of operation that technology allow us. Internet gave us the opportunity to connect in an unprecedented manner. New media allowed us to regain authorship. Social networks allowed us to crowdfund, crowdwork and crowdsource ideas, projects and businesses. Now, blockchain let us bring full transparency to initiatives, at the same time they retain privacy and data security; as well as give us the means to finance this new models with cryptocurrencies. The world is now set for crowdscience and that is why we want to bring to the world Genecoin.
 
@@ -70,9 +82,13 @@ In spite of the opportunities that technology offers to innovate, science is usu
 
 It would  benefit immediately thousands of scientists, especially the young ones that take too long to enter in the traditional funding system, to carry on the important research we need to solve the problems we will continuously face in the XXI century.
 
-## A Blockchain of ideas
+---
 
-Science has always been a chain of blocks of ideas. Sometimes, there are reasons to &quot;soft fork&quot; theories, other times, to &quot;hard fork&quot; them to explain different magnitudes of events. Validation come from the &quot;full nodes&quot; of research groups and institutions that can see the previous idea block that was proposed, and perform further experiments confirm them or not. In general, the longer and more established chain prevail, but there is always the possibility to go back to a certain point in time or to find orphan idea blocks that can lead to a new theory or was not at first fully understood. If we think about all of that, science is ready for a new way to convey its resources and all its scalability. There are no borders for knowledge, only from time to time, when some try to impose on it. There is a common language on data, equations, and even on social theories that can prime an unprecedented future.
+> ### A Blockchain of ideas
+> 
+> Science has always been a chain of blocks of ideas. Sometimes, there are reasons to &quot;soft fork&quot; theories, other times, to &quot;hard fork&quot; them to explain different magnitudes of events. Validation come from the &quot;full nodes&quot; of research groups and institutions that can see the previous idea block that was proposed, and perform further experiments confirm them or not. In general, the longer and more established chain prevail, but there is always the possibility to go back to a certain point in time or to find orphan idea blocks that can lead to a new theory or was not at first fully understood. If we think about all of that, science is ready for a new way to convey its resources and all its scalability. There are no borders for knowledge, only from time to time, when some try to impose on it. There is a common language on data, equations, and even on social theories that can prime an unprecedented future.
+
+---
 
 ## Genecoin value propositions
 
@@ -108,9 +124,13 @@ Research has always been collaborative, but there are several limitations to car
 
 A currency has the power to bring people together. As Harari wrote in Sapiens: A Brief History of Humankind (Harari, 2015) _&quot;Money is the most universal and most efficient system of mutual trust ever devised. [...] Be that as it may, money is also the apogee of human tolerance. Money is more open-minded than language, state laws, cultural codes, religious beliefs and social habits. Money is the only trust system created by humans that can bridge almost any cultural gap, and that does not discriminate on the basis of religion, gender, race, age or sexual orientation. Thanks to money, even people who don&#39;t know each other and don&#39;t trust each other can nevertheless cooperate effectively.&quot;_
 
-## Genecoin is more than a social currency
+---
 
-Social currencies are instruments or payment systems created and administered by end-users in economic relationships based on cooperation and solidarity of the participants of certain communities. Genecoin is the currency of the scientific community and all the people that collaborate with this community. Genecoin is based on the principles of freedom of association and freedom of contract, and is perfectly legal in most countries. As a social currency, Genecoin can be used to confront some structural weaknesses present in monetary systems. Like other social currencies, it is not only approved but also strongly encouraged by central banks, in order to protect the user community, stimulate exchanges and transform the nature of those exchanges (Freire, 2011). Also, when applied to traditional populations receiving distribution of benefits on the basis of The &quot;Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity&quot;, Genecoin can be used to strengthen the economy of those traditional populations. But more than a social currency, Genecoin is not local, but global, although it serves a community that runs a real economy, with huge diversity, with no borders, but having one thing in common: love for science.
+>  ### Genecoin is more than a social currency
+> 
+> Social currencies are instruments or payment systems created and administered by end-users in economic relationships based on cooperation and solidarity of the participants of certain communities. Genecoin is the currency of the scientific community and all the people that collaborate with this community. Genecoin is based on the principles of freedom of association and freedom of contract, and is perfectly legal in most countries. As a social currency, Genecoin can be used to confront some structural weaknesses present in monetary systems. Like other social currencies, it is not only approved but also strongly encouraged by central banks, in order to protect the user community, stimulate exchanges and transform the nature of those exchanges (Freire, 2011). Also, when applied to traditional populations receiving distribution of benefits on the basis of The &quot;Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity&quot;, Genecoin can be used to strengthen the economy of those traditional populations. But more than a social currency, Genecoin is not local, but global, although it serves a community that runs a real economy, with huge diversity, with no borders, but having one thing in common: love for science.
+
+---
 
 ## Through Genecoin, researchers, entrepreneurs, lay citizens (actually, anyone) can collaborate to move a knowledge economy.
 
@@ -149,15 +169,16 @@ We are confident we will be able to develop the following projects to kickstart 
 - **GRAppE marketplace -** In more &#39;cold&#39; terms, GRAppE will be a set of smart-contracts (mostly coded in Solidity) and software interfaces (most likely in Python) running in to the blockchain. Each product will be planned to be completely autonomous and to run without the interference of a human. Smart contracts will enable us to facilitate a payment solution working flawlessly between parties via the Ethereum blockchain. A marketplace software, in which users with knowledge about the DNA sequences and their relation to molecular biology, biochemistry, physiology, ecology, etc, could take a sequence, made public by them or by someone else, and improve it, by validating the initial assembly, annotation and metadata, or any other claims. **Deadline: 18 months after ICO.**
   - **From genomes, to genes, to blocks -** A smart-contract that will manage the transaction of registering a gene sequence with metadata to the blockchain, between the &#39;user&#39; that offered the sequence and the &#39;backer&#39; that is sponsoring its inclusion in the blockchain; as well as the Ethereum block creation fee. The code that select one or more DNA sequences (fragment, singleton or genes) from our genome database and published in the blockchain for anyone, anywhere in the world to use it for research or any other purposes (developing new technologies or businesses), has to be included in the smart-contract. **Deadline: 4 months after ICO.**
 
-## The genome of the invasive golden mussel
+---
 
-Four years ago, we decided to [crowdfund](https://www.catarse.me/genoma/en) our main research project:  the sequencing, assembling and annotation of the genome of an aggressive invasive species, the Golden Mussel _Limnoperna fortunei_. This small bivalve mollusk ( [see image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2015/brazilscient.jpg)) has travelled from China in ballast water of cargo ships to invade South America waters, leaving a trail of environmental damage and economical losses where it passes. You can learn more about the invasion and the risk of reaching Amazo waters in this [review article](https://www.researchgate.net/publication/235752081_Biological_invasions_How_invasive_species_threaten_biodiversity_The_case_of_the_golden_mussel_Limnoperna_fortunei_and_the_Amazon_River_basin) that we published in 2013 (Uliano-Silva et al., 2013) and [watching the video](https://youtu.be/YWRG6LEeClY) that we prepared for the crowdfund campaign.
+> ## The genome of the invasive golden mussel
+> 
+> Four years ago, we decided to [crowdfund](https://www.catarse.me/genoma/en) our main research project:  the sequencing, assembling and annotation of the genome of an aggressive invasive species, the Golden Mussel _Limnoperna fortunei_. This small bivalve mollusk ( [see image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2015/brazilscient.jpg)) has travelled from China in ballast water of cargo ships to invade South America waters, leaving a trail of environmental damage and economical losses where it passes. You can learn more about the invasion and the risk of reaching Amazo waters in this [review article](https://www.researchgate.net/publication/235752081_Biological_invasions_How_invasive_species_threaten_biodiversity_The_case_of_the_golden_mussel_Limnoperna_fortunei_and_the_Amazon_River_basin) that we published in 2013 (Uliano-Silva et al., 2013) and [watching the video](https://youtu.be/YWRG6LEeClY) that we prepared for the crowdfund campaign.
+> We carried out the first successful scientific crowdfund campaign in Brazil, raising USD 20k we needed for the sequencing part of the project. Other resources came from research grants in Brazil and abroad.
+> We believe the success of the crowdfunding campaign was partially due to the strong science communication component, as well as the project oriented goals of the research. We were very careful to properly communicate to the general public the problem, the project, our reasons to do it and what we would do with the money. Besides all the spontaneous media that the project received (see further reading section), the researcher conducting the project was [selected as TED fellow](https://fellowsblog.ted.com/i-crowdfunded-my-phd-research-this-model-could-change-the-world-28a079b7a0af) and [spoke in TED global](https://youtu.be/IOPEPnQYoOE).
+> We finished sequencing, assembling and annotating the best bivalve genome to date. A huge accomplishment for a small group of molecular biologists and bioinformaticians that we are. The article has been accepted for publication in GigaScience and is [available already in pre-print version](https://peerj.com/preprints/2995/) in PeerJ (Uliano-Silva et al., 2017). It is not going to be the first genome on the blockchain, but it will definitely be the best.
 
-We carried out the first successful scientific crowdfund campaign in Brazil, raising USD 20k we needed for the sequencing part of the project. Other resources came from research grants in Brazil and abroad.
-
-We believe the success of the crowdfunding campaign was partially due to the strong science communication component, as well as the project oriented goals of the research. We were very careful to properly communicate to the general public the problem, the project, our reasons to do it and what we would do with the money. Besides all the spontaneous media that the project received (see further reading section), the researcher conducting the project was [selected as TED fellow](https://fellowsblog.ted.com/i-crowdfunded-my-phd-research-this-model-could-change-the-world-28a079b7a0af) and [spoke in TED global](https://youtu.be/IOPEPnQYoOE).
-
-We finished sequencing, assembling and annotating the best bivalve genome to date. A huge accomplishment for a small group of molecular biologists and bioinformaticians that we are. The article has been accepted for publication in GigaScience and is [available already in pre-print version](https://peerj.com/preprints/2995/) in PeerJ (Uliano-Silva et al., 2017). It is not going to be the first genome on the blockchain, but it will definitely be the best.
+---
 
 ## Genecoin technology
 
