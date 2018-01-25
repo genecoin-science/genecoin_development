@@ -182,16 +182,6 @@ We are confident we will be able to develop the following projects to kickstart 
 
 ---
 
-## Genecoin technology
-
-Because we are not coders ourselves, we decided to build Genecoin on [The Proof platform](https://www.proofsuite.com/), a using the Ethereum blockchain, created to apply the concept to real estate and other real world assets, that we realized it could be applied to genome research too.
-
-We also believe that the Proof vision of a decentralized internet is very interesting. They allow you to easily create and ICO, have a exchange for the currency and a marketplace that will allow users to immediately buy and sell services in Genecoin.
-
-Even though Proof has its own blockchain fork, Genecoin was created in Ethereum, which makes it easy to be stored in any Ethereum wallet and exchanged in any major exchange. At the ICO time, Genecoins will be purchased in Proof&#39;s and EtherDelta&#39;s exchanges.
-
-To guarantee that the IT development of Genecoin&#39;s ecosystem will not be uncovered, the founders have partnered with a company with more than 20 years of system&#39;s development trackback.
-
 ## Genecoin business model
 
 Guarantee Liquidity and progressive discount rate - a positive entropy financial model
@@ -234,9 +224,9 @@ Genecoin symbol will be GNC.
 
 Prices will be set in Ethereum since only Ethereum can be stored in the smart-contract to guarantee liquidity.
 
-You Must have a wallet to acquire Genecoins. MyEtherWallet or MetaMask will work perfectly. You can also download a [Proof wallet](https://play.google.com/store/apps/details?id=com.proofsuite.proof&amp;hl=en) (Android only) to receive your tokens.
+You Must have a wallet to acquire Genecoins. MyEtherWallet or MetaMask will work perfectly.
 
-Genecoin will be listed in the [Proof Exchange platform](https://beta.proofdashboard.com/users/17076/assets/7354) and will also be offered in the [EtherDelta](https://etherdelta.com/), a decentralised exchange. **Deadline: 60 days after ICO.**
+Genecoin will be listed in exchanges **60 days after ICO.**
 
 ## Genecoin Marketing Strategy
 
