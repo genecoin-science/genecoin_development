@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Science is collaborative and cooperative (even though also competitive) and money is the best tool to bring people together. So, for the purpose of creating an ecosystem to speed up biodiversity based biotechnology to foster a bioeconomy, it makes a lot of sense to create a community currency. Genecoin is the community cryptocurrency that will allow scientists, entrepreneurs, financiers, philanthropist, service providers, labs, researchers together, to interact in a fast, safe and cheap way to make this change happen and promote bioeconomy. Genecoin operates in the Ethereum blockchain and it is available at the Proof exchange. It starts now and it will live in the blockchain forever.
+Science is collaborative and cooperative (even though also competitive) and money is the best tool to bring people together. So, for the purpose of creating an ecosystem to speed up biodiversity based biotechnology to foster a bioeconomy, it makes a lot of sense to create a complementary currency. Genecoin is the complementary cryptocurrency that will allow scientists, entrepreneurs, financiers, philanthropist, service providers, labs, researchers together, to interact in a fast, safe and cheap way to make this change happen and promote bioeconomy. Genecoin operates in the Ethereum blockchain and it is available at the Proof exchange. It starts now and it will live in the blockchain forever.
 
 ## The decentralisation of science
 
@@ -128,7 +128,7 @@ A currency has the power to bring people together. As Harari wrote in Sapiens: A
 
 ---
 
->  ### Genecoin is more than a social currency
+> ## Genecoin is more than a social currency
 > 
 > Social currencies are instruments or payment systems created and administered by end-users in economic relationships based on cooperation and solidarity of the participants of certain communities. Genecoin is the currency of the scientific community and all the people that collaborate with this community. Genecoin is based on the principles of freedom of association and freedom of contract, and is perfectly legal in most countries. As a social currency, Genecoin can be used to confront some structural weaknesses present in monetary systems. Like other social currencies, it is tolerated by central banks, in order to protect the user community, stimulate exchanges and transform the nature of those exchanges (Freire, 2011). Also, when applied to traditional populations receiving distribution of benefits on the basis of The &quot;Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity&quot;, Genecoin can be used to strengthen the economy of those traditional populations. But more than a social currency, Genecoin is not local, but global; it serves a community that runs a real economy, with no borders, with huge diversity, but having one thing in common: love for science.
 
@@ -260,13 +260,13 @@ We may not have enough space in this white paper to discuss every aspect of the 
 
 ### General disclaimer
 
-Genecoin is a community currency. Genecoin tokens do not have the legal qualification of a security, since it does not give any rights to dividends, interests, shares or votes.
+Genecoin is a complementary currency. Genecoin tokens do not have the legal qualification of a security, since it does not give any rights to dividends, interests, shares or votes.
 
-Cryptocurrencies are subject to high volatility. it is strongly recommended that you familiarize yourself with cryptocurrencies before acquiring Genecoin to fully understand its mechanism and risks. Including the risk of wrong transactions, wallet hacking and the extremely unlikely event of blockchain hacking.
+Cryptocurrencies are subject to high volatility. It is strongly recommended that you get familiar with cryptocurrencies before acquiring Genecoin to fully understand its mechanism and risks. Including the risk of wrong transactions, wallet hacking and the extremely unlikely event of blockchain hacking.
 
 In particular, the Genecoin may not be able to launch or complete its projects as promised. Therefore, and prior to acquiring Genecoin tokens, any user should carefully consider the risks, costs and benefits of acquiring Genecoin tokens in the context of the crowdsale and, if necessary, obtain any independent advice in this regard. Any interested person who is not in the position to accept or to understand the risks associated with the activity or any other risks as indicated in the Terms &amp; Conditions of the crowdsale should not acquire Genecoin tokens.
 
-We hope that our previous experience in delivering scientific crowdfunding, as well as a public (academic or not) careers, makes us worth of your trust.
+We hope that our previous experience in delivering scientific crowdfunding, as well as a public (academic or not) careers, make us worth of your trust.
 
 This white paper shall not and cannot be considered as an invitation to enter into an investment. It does not constitute or relate in any way nor should it be considered as an offering of securities in any jurisdiction. This white paper does not include or contain any information or indication that might be considered as a recommendation or that might be used as a basis for any investment decision. Any information in the white paper is provided for general information purposes only and is not to be considered as an advisor in any legal, tax or financial matters. Neither it provides any warranty as to the accuracy and completeness of this information.
 
