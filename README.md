@@ -1,4 +1,4 @@
-### Theoretical White Paper. Version 1.0.5 - 12/15/2017
+### Theoretical White Paper. Version 1.0.6 - 01/30/2018
 
 # Meet Genecoin: the Bioeconomy Currency
 
@@ -210,23 +210,15 @@ In 6 years, with only 0.5% of the world&#39;s scientific community operating in 
 
 ## Genecoin Tokens
 
-One hundred million (100,000,000) tokens have been issued in the Ethereum platform under contract 0xe47a28f1c39fDfD3ec1613e7C3dc2b5e0f152A93
-
-The number of token available can be checked here [http://www.proofsuite.com/tokenbalance/](http://www.proofsuite.com/tokenbalance/) using the creators ethereum address: 0xc013c60ef41f9f59e1b34826ae1c1e62c4f2b6bf
-
-Founders will hold 10% of the Tokens and other 15% of tokens will be used for developing and  distributed among supporters.
-
-Genecoin symbol will be GNC.
+One hundred million (100,000,000) tokens have been issued in the Ethereum platform. Founders will hold 10% of the Tokens and other 15% of tokens will be used for developing and  distributed among supporters. Genecoin symbol will be GEN.
 
 ## Genecoin ICO and Exchange
 
-[The Initial Coin Offer (ICO) is set for](http://www.proofsuite.com/i/3tq1tvVeHV#) [March](http://www.proofsuite.com/i/3tq1tvVeHV#)1st at the Proof platform.
+Prices will be set in Ethereum and stored in the smart-contract to guarantee liquidity.
 
-Prices will be set in Ethereum since only Ethereum can be stored in the smart-contract to guarantee liquidity.
+You must have a wallet to acquire Genecoins. MyEtherWallet or MetaMask will work perfectly.
 
-You Must have a wallet to acquire Genecoins. MyEtherWallet or MetaMask will work perfectly.
-
-Genecoin will be listed in exchanges **60 days after ICO.**
+We will work to list Genecoin in exchanges **60 days after ICO.**
 
 ## Genecoin Marketing Strategy
 
