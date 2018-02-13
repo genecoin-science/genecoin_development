@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-import "../SafeMath.sol";
+import "./SafeMath.sol";
 import "./Crowdsale.sol";
 
 
