@@ -12,7 +12,7 @@ import "./ERC20.sol";
  * @dev https://github.com/ethereum/EIPs/issues/20
  * @dev Based on code by FirstBlood: https://github.com/Firstbloodio/token/blob/master/smart_contract/FirstBloodToken.sol
  */
-contract StandardToken is ERC20, BasicToken {
+contract StandardToken is ERC20, BurnableToken {
 
   mapping (address => mapping (address => uint256)) internal allowed;
 
