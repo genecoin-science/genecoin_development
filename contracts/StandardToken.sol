@@ -2,7 +2,7 @@ pragma solidity ^0.4.18;
 
 
 import "./BurnableToken.sol";
-import "./ERC20/ERC20.sol";
+import "./ERC20.sol";
 
 
 /**
